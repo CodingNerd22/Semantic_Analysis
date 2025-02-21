@@ -1,0 +1,4 @@
+pymupdf==1.23.7
+sentence-transformers==2.7.0
+numpy==1.26.0
+spacy==3.8.4
